@@ -1,3 +1,3 @@
-###Blog Ghost [NuryVasquez](http://nuryvasquez.xyz/)
+# Theme blog [wilfredlemus.xyz](http://wilfredlemus.xyz/)
 
-> Blog Personal Nury Vasquez
+> Credit --> <a href="https://github.com/Kikobeats/uno-zen" target="_blank">Uno Zen</a>
